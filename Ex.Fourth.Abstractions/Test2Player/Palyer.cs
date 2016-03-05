@@ -85,7 +85,7 @@ namespace Ex.Fourth.Abstractions
 
         void IRecodable.Stop()
         {
-            Console.WriteLine("\tRecord is stopped");
+            Console.WriteLine("\tRecording is stopped");
             record = false;
         }
     }

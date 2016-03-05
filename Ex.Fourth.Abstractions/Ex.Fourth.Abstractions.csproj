@@ -51,7 +51,6 @@
     <Compile Include="Test1Handler\Handler.cs" />
     <Compile Include="Test1Handler\TXTHandler.cs" />
     <Compile Include="Test1Handler\XMLHandler.cs" />
-    <Compile Include="Test2Player\Main2.cs" />
     <Compile Include="Presenter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -12,7 +12,7 @@ namespace Ex.Fourth.Abstractions
             handler.RunHandler("MySite", DocumentFormat._xml);
             handler.RunHandler("Hans Solo", DocumentFormat._txt);
 
-            Console.WriteLine("Enter key to open next exersize");
+            Console.WriteLine("Enter key to open next exersize.");
             Console.ReadLine();
         }
 
@@ -22,7 +22,7 @@ namespace Ex.Fourth.Abstractions
 
             KMPlayer.Play("BMTH - Doomed");
 
-            Console.WriteLine("Enter key to open next exersize");
+            Console.WriteLine("Enter key to finish.");
             Console.ReadLine();
         }
     }
